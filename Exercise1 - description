@@ -1,0 +1,3 @@
+Exercise - 1.
+In this exercise we write a program to count the number of different domain name (of email address) present in the text file 'mbox.txt'
+After execution, the program returns a sql database 'orgdb.sqlite' which contains domain name counts in descending order.
